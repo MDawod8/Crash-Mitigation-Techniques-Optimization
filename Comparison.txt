@@ -1,0 +1,184 @@
+PCSI: V = 70, V_obstcale = 0, D = 50, theta = 140
+
+CSI: Rk = Rm = 1.5, m1 = 1500
+************************************************************************************************
+
+PSO:
+
+PCSI Runs:
+The best F is 1.0958881682163752
+The best V is 68.39391989425324
+The best theta is 128.7544154367693
+The executiontime is 0.0005748271942138672 seconds
+
+The best F is 1.0954698183114293
+The best V is 64.32047274671442
+The best theta is 114.7558527931279
+The executiontime is 0.00019216537475585938 seconds
+
+The best F is 1.0965109679438225
+The best V is 65.1760043623989
+The best theta is 156.00112774601925
+The executiontime is 0.0007195472717285156 seconds
+
+The best F is 1.0954049541949997
+The best V is 67.00009865799993
+The best theta is 124.55792129186608
+The executiontime is 0.002310514450073242 seconds
+
+The best F is 1.0954245095350321
+The best V is 67.74532950287411
+The best theta is 108.73949442625906
+The executiontime is 0.0003807544708251953 seconds
+
+----------------------------------------------------------------------
+
+CSI Runs:
+The best F is 0.2685778377106634
+The best L is 4.213511125048168
+The best W is 1.7974189664159355
+The execution time is 0.0008251667022705078 seconds
+
+The best F is 0.2686063624031681
+The best L is 4.3516274431998205
+The best W is 1.5500022088193082
+The execution time is 0.0002868175506591797 seconds
+
+The best F is 0.26866731059790955
+The best L is 4.425215072763028
+The best W is 1.6441340011683587
+The execution time is 0.0018737316131591797 seconds
+
+The best F is 0.2686355563217687
+The best L is 4.5439462549900576
+The best W is 1.6797215890157913
+The execution time is 0.0015621185302734375 seconds
+
+The best F is 0.2685834365869282
+The best L is 4.80213645644371
+The best W is 1.5672693524691563
+The execution time is 0.0007250308990478516 seconds
+
+******************************************************************************************************************************
+
+GA:
+
+PCSI Runs:
+
+The best F is 1.095982928652217
+The best V is 64.39743929783253
+The best theta is 174.25519933268325
+The execution_time  is 0.00023293495178222656 seconds
+
+The best F is 1.0970678104494584
+The best V is 64.56017156741876
+The best theta is 167.5185117014293
+The execution_time  is 0.0004837512969970703 seconds
+
+The best F is 1.0969469311381446
+The best V is 64.54203967072169
+The best theta is 170.66937065766288
+The execution_time  is 0.0002694129943847656 seconds
+
+The best F is 1.098454800071043
+The best V is 64.76822001065648
+The best theta is 167.81738792673468
+The execution_time  is 0.0013077259063720703 seconds
+
+The best F is 1.096429799511064
+The best V is 64.4644699266596
+The best theta is 179.54693051592193
+The execution_time  is 0.0006654262542724609 seconds
+
+-------------------------------------------------------------
+
+CSI Runs:
+
+The best F is 0.2687359409475225
+The best L is 4.812861642887645
+The best W is 1.535725034832074
+The execution_time  is 0.0008699893951416016 seconds
+
+The best F is 0.26864771557985617
+The best L is 4.840595850988182
+The best W is 1.5108358887453859
+The execution_time  is 0.0018954277038574219 seconds
+
+The best F is 0.2687184775013604
+The best L is 4.81177551321695
+The best W is 1.5287797533078524
+The execution_time  is 0.0002887248992919922 seconds
+
+The best F is 0.2686378830938504
+The best L is 4.8352181619926675
+The best W is 1.5053695810345373
+The execution_time  is 0.0004642009735107422 seconds
+
+The best F is 0.26864754318570183
+The best L is 4.890111936399215
+The best W is 1.5262236284857615
+The execution_time  is 0.0010447502136230469 seconds
+
+
+**********************************************************************************************************************
+
+SA:
+
+
+PCSI Runs:
+
+The best V is 64.41486066429542
+The best theta is 193
+The best objective function result is 0.7627657377619694
+The execution_time is 0.0003066062927246094seconds
+
+The best V is 64.52199154416107
+The best theta is 198
+The best objective function result is 0.7634799436277404
+The execution_time is 0.0002071857452392578seconds
+
+The best V is 64.31604730443027
+The best theta is 185
+The best objective function result is 0.7621069820295351
+The execution_time is 3.886222839355469e-05seconds
+
+The best V is 64.69631641573912
+The best theta is 190
+The best objective function result is 0.7646421094382607
+The execution_time is 3.0279159545898438e-05seconds
+------------------------------------------------------------------------
+
+CSI Runs:
+
+The best length is 4.832780431884088
+The best width is 1.519717349913026
+The best objective function result is 0.33550743764472046
+The execution_time is 0.00011420249938964844 seconds
+
+The best length is 4.829300583053954
+The best width is 1.5004979584248401
+The best objective function result is 0.3354339219297498
+The execution_time is 7.05718994140625e-05 seconds
+
+The best length is 4.8821756587726
+The best width is 1.5142958679282676
+The best objective function result is 0.3354234179021932
+The execution_time is 6.556510925292969e-05 seconds
+
+The best length is 4.785267664436729
+The best width is 1.5697034267751537
+The best objective function result is 0.335778257159084
+The execution_time is 0.00024580955505371094 seconds
+
+The best length is 4.785267664436729
+The best width is 1.5697034267751537
+The best objective function result is 0.335778257159084
+The execution_time is 0.00024580955505371094 seconds
+
+
+
+
+
+
+
+
